@@ -20,4 +20,4 @@ Pset 6 - Spellchecker (most involved project: making design choices with data st
 Pset 7 - CS50 Finance (stock simulation website: exercise in MVC involving PHP, mySQL, etc.)
 Pset 8 - CS50 Shuttle (3d game implemented via Google Maps API and JavaScript)
 
-Credit to David J. Malan and the Harvard Cs50x staff for designing the amazingly expansive curriculum of CS50x !!
+Credit to David J. Malan and the Harvard Cs50x staff for designing the amazingly expansive curriculum of CS50x !
