@@ -1,0 +1,19 @@
+0.  BMP supports up to 2^64 different colours (although the number of supported colours will vary depending on the number of bits allowed per pixel). GIF supports 2^24 different colours. JPEG supports 256 different colours. PNG supports 2^24 different colours.
+1.  GIF supports animation.
+2.  Lossy compression reduces file size by "approximating" [losing data from] the original image. Lossless compression reduces file size while preserving the quality of the orginal image (although the compressed file may be larger than lossy compression).  
+3.  JPEG
+4.  The system first edits the filename's first character in the file's directory entry to indicate that it can be recycled. It then transfers the file's FAT clusters to the hard drive's list of free clusters (never touching the actual file).
+5.  Overwrite user data with several passes of random data.
+6.  Header file to a library detailing various integer types and their respective widths.
+7.  Specifies the size of integer we will be using (e.g. the number of bits per pixel in a BMP).
+8.  BYTE: 1 byte, DWORD: 4 bytes, LONG: 4 bytes, WORD: 2 bytes
+9.  0x4d42
+10. bfSize describes the size of the entire BMP file whereas biSize is the size of the BITMAPINFO struct
+11. When biHeight is negative, the bitmap will start in the top-left corner (ie. the top row of the image is the first row in memory)
+12. biBitCount
+13. There may be a problem opening the file or perhaps there is no free space left to write the file.
+14. We are only reading one element (pixel) of the given size each time we call fread.
+15. 3
+16. Moves the cursor to a new point in the file.
+17. Variable tracking the current position of the cursor in a given file.
+18. Milo Banana.

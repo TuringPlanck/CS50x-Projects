@@ -1,0 +1,11 @@
+0.  The longest [dictionary-published] word in the English language. It is a synonym for the lung disease silicosis.
+1.  Returns usage statistics for the resources used in a given process (or terminated child process)
+2.  16
+3.  Returns the actual values currently stored in our struct (rather than copies of these values)
+4.  Main traverses the file one character at a time, searching for alphabetic characters to mark the start of strings. Strings containing numeric/non-alphabetical characters (excluding apostrophe's within words) and strings longer than the maximum word length are ignored. All other strings are treated as words, stored in an array of characters, and terminated with the null deliminator. Each word is individually passed into the spellChecker, with counters keeping track of total word count and mispellings. The For loop terminates when the EOF character is found. 
+5.  Checking words one character at a time makes it easier to check and immediately ignore words containing non-alphabetic characters.
+6.  Protects the parameters against modification. Thus, the words loaded into check() and load() cannot accidentally be modified by our function.
+7.  I used a trie rooted with 26 nodes assigned to each letter of the alphabet. Every node in the trie contained a boolean to indicate whether it was the end of a word, and up to 27 [alphabet + apostrophe] child nodes with the same structure. Each word in the dictionary corresponded to a path through the trie (with characters being mapped to nodes and their descendants). The spell checker would then compare each word in text to the dictionary implemented by the trie to see if the word existed. 
+8.  My code ran in 0.32s the first time it worked properly.
+9.  The only real way I found to tweak my code was to implement variables where I had previously repeated arithmetic operations. Still, given that these operations are quite primitive, I have little faith that it has significantly improved the running time.
+10. Yes, I had originally hoped that I could read from the dictionary file word by word in the load function using to save time using some implementation of fscanf or fgetf but I could never seem to resolve memory leaks with this approach. Perhaps I will take another stab at it once the assignment is submitted.
