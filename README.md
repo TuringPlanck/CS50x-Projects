@@ -18,6 +18,6 @@ Pset 4 - Breakout GUI Game (My favourite project!! Based on classic atari game) 
 Pset 5 - Forensics (file I/O with images) <br>
 Pset 6 - Spellchecker (most involved project: making design choices with data structures to optimize runtime) <br>
 Pset 7 - CS50 Finance (stock simulation website: exercise in MVC involving PHP, mySQL, etc.) <br>
-Pset 8 - CS50 Shuttle (3d game implemented via Google Maps API and JavaScript) <br>
+Pset 8 - CS50 Shuttle (3D game implemented via Google Maps API and JavaScript) <br>
 
-Credit to David J. Malan and the Harvard Cs50x staff for designing the amazingly expansive curriculum of CS50x !
+Credit to David J. Malan and the Harvard CS50x staff for designing the amazingly expansive curriculum of CS50x !
