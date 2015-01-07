@@ -6,7 +6,7 @@ Problem sets completed for Harvard CS50x as offered online at [edX-CS50] (https:
 **Note:** These submissions are NOT intended for students currently enrolled in CS50x. Please note the edX Honour Code at 
 [edX Honor Code] (https://www.edx.org/edx-terms-service)
 
-**Remark:** My scratch project for Pset0 can be found at: [Rhythm Mini] (http://scratch.mit.edu/projects/21793159/)
+**Remark:** My scratch project for Pset 0 can be found at: [Rhythm Mini] (http://scratch.mit.edu/projects/21793159/)
 
 Project Notes
 ==============
