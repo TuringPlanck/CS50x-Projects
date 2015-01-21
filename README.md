@@ -21,4 +21,5 @@ Pset 7 - **CS50 Finance** (stock simulation website: exercise in MVC involving P
 Pset 8 - **CS50 Shuttle** (3D game implemented via Google Maps API and JavaScript) <br>
 
 Credit to David J. Malan and the Harvard CS50x staff for designing the amazingly expansive course curriculum for CS50x <br>
+<br>
 My certificate of completion can be found at [Verified Certificate] (https://verify.edx.org/cert/aedceba89da94ad0ba1bcd1ce811e2cd)
