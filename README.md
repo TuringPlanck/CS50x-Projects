@@ -1,12 +1,12 @@
 CS50x-Projects
 ==============
 
-Problem sets completed for Harvard CS50x as offered online at [edX-CS50] (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VKKv6F4DE)
+Problem sets completed for Harvard CS50x as offered online at [edX-CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VKKv6F4DE) from May-December of 2014.
 
 **Note:** These submissions are NOT intended for students currently enrolled in CS50x. Please note the edX Honour Code at 
-[edX Honor Code] (https://www.edx.org/edx-terms-service)
+[edX Honor Code](https://www.edx.org/edx-terms-service)
 
-**Remark:** My scratch project for Pset 0 can be found at: [Rhythm Mini] (http://scratch.mit.edu/projects/21793159/)
+**Remark:** My scratch project for Pset 0 can be found at: [Rhythm Mini](http://scratch.mit.edu/projects/21793159/)
 
 Project Notes
 ==============
@@ -22,4 +22,4 @@ Pset 8 - **CS50 Shuttle** (3D game implemented via Google Maps API and JavaScrip
 
 Credit to David J. Malan and the Harvard CS50x staff for designing the amazingly expansive course curriculum for CS50x <br>
 <br>
-My certificate of completion can be found at [Verified Certificate] (https://verify.edx.org/cert/aedceba89da94ad0ba1bcd1ce811e2cd)
+My certificate of completion can be found at [Verified Certificate](https://verify.edx.org/cert/aedceba89da94ad0ba1bcd1ce811e2cd)
